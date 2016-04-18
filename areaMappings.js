@@ -48,6 +48,13 @@ window.areaMapping = {
       markerColor: 'blue'
     });
   },
+  'water': function() {
+    return L.AwesomeMarkers.icon({
+      icon: 'water',
+      prefix: 'flaticon',
+      markerColor: 'blue'
+    });
+  },
   'rest_area': function() {
     return L.AwesomeMarkers.icon({
       icon: 'rest',
