@@ -132,13 +132,6 @@ window.areaMapping = {
       prefix: 'bikeny'
     });
   },
-  'mechanics': function() {
-    return L.AwesomeMarkers.icon({
-      icon: 'mechanic',
-      markerColor: 'orange',
-      prefix: 'bikeny'
-    });
-  },
   'ribbon': function() {
     return L.AwesomeMarkers.icon({
       icon: 'ribbon',
