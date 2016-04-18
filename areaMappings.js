@@ -181,13 +181,6 @@ window.areaMapping = {
       prefix: 'flaticon'
     });
   },
-  'info_tent': function() {
-    return L.AwesomeMarkers.icon({
-      icon: 'info-tent',
-      markerColor: 'green',
-      prefix: 'bikeny'
-    });
-  },
   'helmet': function() {
     return L.AwesomeMarkers.icon({
       icon: 'helmet',
