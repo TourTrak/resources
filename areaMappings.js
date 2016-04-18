@@ -125,13 +125,6 @@ window.areaMapping = {
       prefix: 'bikeny'
     });
   },
-  'food2': function() {
-    return L.AwesomeMarkers.icon({
-      icon: 'food',
-      markerColor: 'blue',
-      prefix: 'bikeny'
-    });
-  },
   'tshirt': function() {
     return L.AwesomeMarkers.icon({
       icon: 'tshirt',
@@ -139,14 +132,7 @@ window.areaMapping = {
       prefix: 'bikeny'
     });
   },
-  'mechanics2': function() {
-    return L.AwesomeMarkers.icon({
-      icon: 'mechanic',
-      markerColor: 'orange',
-      prefix: 'bikeny'
-    });
-  },
-  'mechanic2': function() {
+  'mechanics': function() {
     return L.AwesomeMarkers.icon({
       icon: 'mechanic',
       markerColor: 'orange',
