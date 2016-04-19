@@ -50,8 +50,8 @@ window.areaMapping = {
   },
   'water': function() {
     return L.AwesomeMarkers.icon({
-      icon: 'water',
-      prefix: 'flaticon',
+      icon: 'tint',
+      prefix: 'fa',
       markerColor: 'blue'
     });
   },
