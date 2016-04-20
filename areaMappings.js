@@ -20,7 +20,7 @@ window.areaMapping = {
       prefix: 'fa'
     });
   },
-  'sagtruck': function() {
+  'truck': function() {
     return L.AwesomeMarkers.icon({
       icon: 'truck',
       markerColor: 'red',
